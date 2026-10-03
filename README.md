@@ -16,7 +16,7 @@ Seorang lulusan SMK Negeri 2 Bojonegoro (Teknik Elektronika Industri, 2022) dan 
 ### 🚀 Proyek Unggulan
 Berikut adalah beberapa proyek yang sudah saya kerjakan:
 
-- **[PelacakanSurat-ADS](https://github.com/adwi-alst/TrackingSurat-ADS.git)**: Aplikasi berbasis web untuk memudahkan proses pelacakan dan pengelolaan surat secara digital.
+- **[TrackingSurat-ADS](https://github.com/adwi-alst/TrackingSurat-ADS.git)**: Aplikasi berbasis web untuk memudahkan proses pelacakan dan pengelolaan surat secara digital.
 - **[UlarTangga](https://github.com/adwi-alst/UlarTangga.git)**: Permainan edukatif interaktif ular tangga yang dikembangkan menggunakan teknologi web dasar.
 - **[KDMP-Sukorejo](https://github.com/adwi-alst/KDMP-Sukorejo.git)**: Website Profil pengenalan KDMP Desa Sukorejo, Malo, Bojonegoro.
 - **[Sensor-bocoran-gas](https://github.com/adwi-alst/Sensor-gas-leaking.git)**: Proyek berbasis IoT untuk mendeteksi kebocoran gas secara *real-time* guna meningkatkan keamanan lingkungan.
