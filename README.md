@@ -2,7 +2,7 @@
 Seorang lulusan SMK Negeri 2 Bojonegoro (Teknik Elektronika Industri, 2022) dan S1 Universitas Nahdlatul Ulama Sunan Giri Bojonegoro (Sistem Komputer, 2026). Memiliki latar belakang kuat di bidang elektronika dan sistem tertanam yang kini berfokus mendalami pengembangan web.
 
 - 🌱 Saat ini saya sedang memperdalam keahlian seputar Web Development dan integrasi IoT.
-- 📫 Kontak saya: [erlanggavibianto@gmail.com]
+- 📫 Kontak saya: [erlanggavibianto@gmail.com](mailto:erlanggavibianto@gmail.com)
 
 ---
 
